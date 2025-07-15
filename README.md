@@ -22,8 +22,5 @@ The project begins with sourcing the dataset from an open data platform. The dat
 After training, the model is serialized and integrated into a lightweight Flask application that exposes an API endpoint for making predictions. Users can send a POST request with input data and receive predictions in real-time. This setup is then deployed to a cloud platform, showcasing the practical usability of the model through a live demo.
 
 Deliverables: Cleaned and preprocessed dataset Trained and saved machine learning model Flask-based API for prediction Deployed application accessible via public URL README with setup instructions
-ooutput :
-<img width="523" height="911" alt="Image" src="https://github.com/user-attachments/assets/fb89eebf-a48c-447b-9b10-c691481ee868" />
-
-<img width="1910" height="922" alt="Image" src="https://github.com/user-attachments/assets/531b7605-2318-4084-afff-25ae3cd1cff1" />
+output :
 
